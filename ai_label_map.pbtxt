@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'hat'
+}
+
+item {
+  id: 2
+  name: 'no_hat'
+}
+
+item {
+  id: 3
+  name: 'mask'
+}
+
+item {
+  id: 4
+  name: 'no_mask'
+}
+
+item {
+  id: 5
+  name: 'can_open'
+}
+
+item {
+  id: 6
+  name: 'can_close'
+}
+
+item {
+  id: 7
+  name: 'smoke'
+}
